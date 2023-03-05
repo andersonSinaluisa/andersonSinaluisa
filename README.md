@@ -12,21 +12,18 @@ Experiencia laboral 👨‍💼
 Actualmente me desempeño como Programador Backend en 6 Sigma Group
 
 Habilidades 🔧
-💻 Desarrollo web
-📱 Desarrollo de aplicaciones móviles
-🗃️ Bases de datos
-🔧 Herramientas y tecnologías
-🌐 Desarrollo de aplicaciones web
-🎨 Diseño de interfaces de usuario
-🚀 Optimización de rendimiento
-🧰 Mantenimiento y soporte técnico
-🧩 Integración y entrega continua
-📊 Análisis y visualización de datos
-🤖 Inteligencia artificial y aprendizaje automático
-💬 Comunicación y colaboración
-📝 Documentación y escritura técnica
-🧑‍🏫 Mentoring y enseñanza
-📚 Investigación y aprendizaje continuo.
+- 💻 Desarrollo web
+- 📱 Desarrollo de aplicaciones móviles
+- 🗃️ Bases de datos
+- 🔧 Herramientas y tecnologías
+- 🌐 Desarrollo de aplicaciones web
+- 🚀 Optimización de rendimiento
+- 🧰 Mantenimiento y soporte técnico
+- 🧩 Integración y entrega continua
+- 💬 Comunicación y colaboración
+- 📝 Documentación y escritura técnica
+- 🧑‍🏫 Mentoring y enseñanza
+- 📚 Investigación y aprendizaje continuo.
 
 Skills 
 

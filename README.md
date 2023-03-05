@@ -1,16 +1,49 @@
-### Hi there 👋
+¡Hola! 👋
+¡Bienvenido a mi perfil de GitHub! 👨‍💻
 
-<!--
-**andersonSinaluisa/andersonSinaluisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre mí
+Soy un programador Fullstack con 2 años de experiencia en el desarrollo web, tanto en el backend como en el frontend. También tengo experiencia en el desarrollo de aplicaciones móviles nativas e híbridas. 📱
 
-Here are some ideas to get you started:
+Experiencia laboral 👨‍💼
+- Programador Semi-senior en 6 Sigma Group (ASESTECNO S.A.) 🏭
+- Programador Frontend en Pharmacy & Nutrition 🏥
+- Programador PHP en Fundapi 🏢
+- Desarrollador Fullstack en Siape S.A 🌐
+Actualmente me desempeño como Programador Backend en 6 Sigma Group
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades 🔧
+💻 Desarrollo web
+📱 Desarrollo de aplicaciones móviles
+🗃️ Bases de datos
+🔧 Herramientas y tecnologías
+🌐 Desarrollo de aplicaciones web
+🎨 Diseño de interfaces de usuario
+🚀 Optimización de rendimiento
+🧰 Mantenimiento y soporte técnico
+🧩 Integración y entrega continua
+📊 Análisis y visualización de datos
+🤖 Inteligencia artificial y aprendizaje automático
+💬 Comunicación y colaboración
+📝 Documentación y escritura técnica
+🧑‍🏫 Mentoring y enseñanza
+📚 Investigación y aprendizaje continuo.
+
+Skills 
+
+- Spring boot
+- Django
+- Laravel
+- Node js
+- React
+- Android (Java)
+- Flutter
+- Python
+- Javascript
+- Mysql
+- Sqlserver
+- postgreSql
+
+Contacto 📫
+Si deseas contactarme para colaboraciones, puedes hacerlo a través de mi correo electrónico. ¡Estaré encantado de hablar contigo! 🤝
+
+Correo electrónico: [insertar aquí tu correo electrónico] ✉️

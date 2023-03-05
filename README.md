@@ -23,7 +23,7 @@ Habilidades 🔧
 - 🧩 Integración y entrega continua
 - 💬 Comunicación y colaboración
 - 📝 Documentación y escritura técnica
-- 🧑‍🏫 Mentoring y enseñanza
+
 - 📚 Investigación y aprendizaje continuo.
 
 Skills 

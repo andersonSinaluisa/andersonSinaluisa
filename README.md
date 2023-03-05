@@ -9,7 +9,8 @@ Experiencia laboral 👨‍💼
 - Programador Frontend en Pharmacy & Nutrition 🏥
 - Programador PHP en Fundapi 🏢
 - Desarrollador Fullstack en Siape S.A 🌐
-Actualmente me desempeño como Programador Backend en 6 Sigma Group
+
+- Actualmente me desempeño como Programador Backend en 6 Sigma Group
 
 Habilidades 🔧
 - 💻 Desarrollo web

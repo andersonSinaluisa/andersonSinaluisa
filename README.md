@@ -37,6 +37,7 @@ Skills
 - Flutter
 - Python
 - Javascript
+- Typescript
 - Mysql
 - Sqlserver
 - postgreSql

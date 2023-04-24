@@ -47,5 +47,5 @@ Skills
 Contacto 📫
 Si deseas contactarme para colaboraciones, puedes hacerlo a través de mi correo electrónico. ¡Estaré encantado de hablar contigo! 🤝
 
-Correo electrónico: [andersonsinaluiisa@gmail.com] ✉️
-WEB: [andersonsinaluisa.com]
+Correo electrónico: [andersonsinaluisa@gmail.com] ✉️
+WEB: (andersonsinaluisa.com)[andersonsinaluisa.com]

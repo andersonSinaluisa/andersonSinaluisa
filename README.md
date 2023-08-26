@@ -48,3 +48,7 @@ Si deseas contactarme para colaboraciones, puedes hacerlo a través de mi correo
 
 Correo electrónico: [andersonsinaluisa@gmail.com] ✉️ <br/>
 WEB: [andersonsinaluisa.com](https://andersonsinaluisa.com)
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andersonSinaluisa)
+

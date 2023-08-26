@@ -51,6 +51,5 @@ WEB: [andersonsinaluisa.com](https://andersonsinaluisa.com)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andersonSinaluisa)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andersonSinaluisa)](https://github.com/anuraghazra/github-readme-stats)
 
 

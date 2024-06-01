@@ -4,12 +4,6 @@
 Sobre mí
 Soy un programador Fullstack con 2 años de experiencia en el desarrollo web, tanto en el backend como en el frontend. También tengo experiencia en el desarrollo de aplicaciones móviles nativas e híbridas. 📱
 
-Experiencia laboral 👨‍💼
-- Programador Semi-senior en 6 Sigma Group (ASESTECNO S.A.) 🏭
-- Programador Frontend en Pharmacy & Nutrition 🏥
-- Programador PHP en Fundapi 🏢
-- Desarrollador Fullstack en Siape S.A 🌐
-
 
 Habilidades 🔧
 - 💻 Desarrollo web

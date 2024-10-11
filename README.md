@@ -55,6 +55,6 @@ Tengo una pasión por el aprendizaje continuo y siempre busco estar al día con 
 ### **Contacto** 📫  
 Si deseas contactarme para **colaboraciones** o **oportunidades profesionales**, no dudes en escribirme:  
 
-✉️ [miemail@example.com](mailto:andersonsinaluisa@gmail.com)
+✉️ [andersonsinaluisa@gmail.com](mailto:andersonsinaluisa@gmail.com)
 
 ¡Estaré encantado de conversar contigo! 🤝

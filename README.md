@@ -2,7 +2,7 @@
 ### ¡Bienvenido a mi perfil de GitHub! 👨‍💻  
 
 ### Sobre mí  
-Soy un desarrollador Fullstack con 4 años de experiencia en la creación de soluciones digitales completas, desde el backend hasta el frontend. He trabajado en una amplia gama de proyectos, incluyendo el desarrollo de aplicaciones móviles nativas e híbridas. 📱
+Soy un Desarrollador de Software con experiencia en desarrollo fullstack, especializado en la creación de soluciones de software integrales que abarcan tanto el frontend como el backend. Tengo sólidos conocimientos en PHP, Laravel, Python, React, Java, C#, .NET, React Native, NestJS, y una variedad de tecnologías adicionales, lo que me permite adaptarme rápidamente a las necesidades de los proyectos y trabajar en entornos diversos. Mi experiencia en la industria incluye desarrollo de aplicaciones móviles, plataformas web y arquitecturas de microservicios.
 
 Tengo una pasión por el aprendizaje continuo y siempre busco estar al día con las nuevas tecnologías y las mejores prácticas del sector. Me motiva resolver problemas complejos y optimizar el rendimiento en cada etapa del desarrollo. 💡
 ---
